@@ -18,7 +18,7 @@ Feel free to message me on Discord about anything. My username is: molitvan.
 
 # My Projects
 
-- [TransAlert](/projects/TransAlert): an app that helps blind people use public transport independently
+- [TransAlert](/projects/transalert): an app that helps blind people use public transport independently
 - [ADOFAI Access](/projects/adofai-access): a mod for A Dance of Fire and Ice that makes the game accessible to blind players
 - [The blind-accessible games list project](/projects/blind-accessible-games-list): a list of all blind-accessible videogames (including mods)
 - [PeriodicCli](/projects/periodic-cli): view the periodic table in your terminal
