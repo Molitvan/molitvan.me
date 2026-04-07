@@ -11,4 +11,4 @@ TransAlert is an app that allows blind people to use public transport independen
 # Download
 
 - [Google Play](https://play.google.com/store/apps/details?id=me.molitvan.TransAlert)
-- Download APK (coming soon)
+- [Download APK](https://static.molitvan.me/TransAlert/latest/TransAlert.apk)
