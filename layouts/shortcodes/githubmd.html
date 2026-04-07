@@ -1,0 +1,14 @@
+{{- $repo := .Get 0 -}}
+{{- $path := .Get 1 | default "README.md" -}}
+{{- $branch := .Get 2 | default "main" -}}
+
+{{- $url := printf "https://raw.githubusercontent.com/%s/%s/%s" $repo $branch $path -}}
+{{- $remote := try (resources.GetRemote $url) -}}
+
+{{- with $remote.Err -}}
+Failed to load remote Markdown: {{ $url }}
+{{- else -}}
+{{- with $remote.Value -}}
+{{ .Content | markdownify }}
+{{- end -}}
+{{- end -}}
