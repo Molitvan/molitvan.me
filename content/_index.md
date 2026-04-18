@@ -25,3 +25,7 @@ Feel free to message me on Discord about anything. My username is: molitvan.
 - [Blind Producers](https://blindproducers.org): this one isn't really mine anymore, but I started it so I guess
 
 I also make music [here](https://go.molitvan.me/music)
+
+# Donate
+
+{{< ko-fi >}}
