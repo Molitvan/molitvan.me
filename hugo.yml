@@ -1,7 +1,9 @@
 baseURL: 'https://molitvan.me/'
 languageCode: 'en-us'
 title: 'Molitvan'
-theme: 'xmin'
+
+cascade:
+    layout: single
 
 menu:
   main:

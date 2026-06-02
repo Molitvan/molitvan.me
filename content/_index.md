@@ -1,7 +1,3 @@
-+++
-layout = "single"
-+++
-
 # Welcome
 
 I'm Molitvan and this site is about me and my projects. If you don't care about me, then what are you doing here?
