@@ -14,13 +14,41 @@ Feel free to message me on Discord about anything. My username is: molitvan.
 
 # My Projects
 
-- [TransAlert](/projects/transalert): an app that helps blind people use public transport independently
-- [ADOFAI Access](/projects/adofai-access): a mod for A Dance of Fire and Ice that makes the game accessible to blind players
-- [The blind-accessible games list project](https://go.molitvan.me/AccessibleGames): a list of all blind-accessible videogames (including mods)
-- [PeriodicCli](/projects/periodic-cli): view the periodic table in your terminal
-- [Blind Producers](https://blindproducers.org): this one isn't really mine anymore, but I started it so I guess
+## TransAlert
 
-I also make music [here](https://go.molitvan.me/music)
+An app that helps blind people use public transport independently
+
+[Learn more and download](/projects/transalert)
+
+## ADOFAI Access
+
+A mod for A Dance of Fire and Ice that makes the game accessible to blind players
+
+[Learn more and download](/projects/adofai-access)
+
+## The blind-accessible games list project
+
+A list of all blind-accessible videogames (including mods)
+
+[View the project](https://go.molitvan.me/AccessibleGames)
+
+## PeriodicCli
+
+View the periodic table in your terminal
+
+[Learn more and download](/projects/periodic-cli)
+
+## Blind Producers
+
+A place for blind producers to connect, learn and share ideas. This one isn't really mine anymore, but I started it so I guess.
+
+[Visit the Blind Producers website](https://blindproducers.org)
+
+## My music
+
+I also sometimes make music of questionable quality.
+
+[Listen to my music](https://go.molitvan.me/music)
 
 # Donate
 
