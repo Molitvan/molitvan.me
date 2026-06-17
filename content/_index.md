@@ -49,7 +49,3 @@ A place for blind producers to connect, learn and share ideas. This one isn't re
 I also sometimes make music of questionable quality.
 
 [Listen to my music](https://go.molitvan.me/music)
-
-# Donate
-
-{{< ko-fi >}}

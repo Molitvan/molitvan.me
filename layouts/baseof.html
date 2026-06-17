@@ -27,9 +27,9 @@
         </main>
 
         <footer>
-            {{ with .Site.Params.footer }}
-                {{ replace . "{Year}" (printf "%d" now.Year) | markdownify }}
-            {{ end }}
+            <p>If you like my projects and you really want to, you can support me by <a href="https://ko-fi.com/C0C31Y1RUK">giving me money on Ko-Fi</a>. Every donation is appreciated!</p>
+            <p>The source code for this website is available <a href="https://github.com/Molitvan/molitvan.me">here</a>. You may read it, learn from it, and reuse small snippets, but you are not allowed to impersonate me or use the code for any purpose other than what's listed here.</p>
+            <p>© {{ now.Year }} Vjeran Bezik</p>
         </footer>
     </body>
 </html>
