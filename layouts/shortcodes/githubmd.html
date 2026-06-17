@@ -8,7 +8,9 @@
 {{- with $remote.Err -}}
 Failed to load remote Markdown: {{ $url }}
 {{- else -}}
-{{- with $remote.Value -}}
-{{ .Content | markdownify }}
-{{- end -}}
+  {{- with $remote.Value -}}
+    {{- $content := .Content -}}
+    {{- $content = replaceRE `(?s)<!--\s*website-hide-start\s*-->.*?<!--\s*website-hide-end\s*-->` "" $content -}}
+    {{- $content | markdownify -}}
+  {{- end -}}
 {{- end -}}
