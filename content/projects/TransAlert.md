@@ -1,5 +1,6 @@
 +++
 title = "TransAlert"
+description = "An app that allows blind people to use public transport independently"
 +++
 
 # TransAlert

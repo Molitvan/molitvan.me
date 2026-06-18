@@ -10,6 +10,11 @@
         </title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="{{ or .Title .Site.Title }}">
+        <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="{{ .Permalink }}">
+        <meta name="theme-color" content="#0000ff">
         <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     </head>
 
