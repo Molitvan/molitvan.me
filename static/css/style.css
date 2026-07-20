@@ -12,12 +12,26 @@ body {
     line-height: 1.6;
 }
 
-nav {
+header {
     background-color: blue;
     display: flex;
     align-items: center;
     padding: 10px 20px;
     width: 100%;
+    gap: 15px;
+}
+
+header img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+nav {
+    flex: 1;
+    display: flex;
+    align-items: center;
 }
 
 nav ul {
