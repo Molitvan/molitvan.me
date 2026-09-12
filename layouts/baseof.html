@@ -19,13 +19,16 @@
     </head>
 
     <body>
-        <nav>
-            <ul class="menu">
-                {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                {{ end }}
-            </ul>
-        </nav>
+        <header>
+            <img src="{{ "logo.png" | relURL }}" alt="Black-and-white logo featuring a bold white M with a smaller lowercase v cut into its bottom center, surrounded by coding-style angle brackets.">
+            <nav>
+                <ul class="menu">
+                    {{ range .Site.Menus.main }}
+                        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </header>
 
         <main>
             {{ block "main" . }}{{ end }}
