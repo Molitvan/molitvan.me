@@ -30,6 +30,12 @@ A mod for A Dance of Fire and Ice that makes the game accessible to blind player
 
 [Learn more and download](/projects/adofai-access)
 
+## RH Fever Access
+
+An external companion app to make Rhythm Heaven Fever accessible to blind players
+
+[Learn more and download](/projects/rh-fever-access)
+
 ## The blind-accessible games list project
 
 A list of all blind-accessible videogames (including mods)
