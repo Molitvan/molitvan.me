@@ -12,7 +12,7 @@ I like game accessibility modding, software development, servers, OS experiments
 
 I'm blind, as you can probably guess by some of my projects. Ok never mind... all of my projects.
 
-I'm 17 and my real name is Vjeran Bezik (never share your personal information on the internet, oops)
+I'm 18 and my real name is Vjeran Bezik (never share your personal information on the internet, oops)
 
 Feel free to message me on Discord about anything. My username is: molitvan.
 
